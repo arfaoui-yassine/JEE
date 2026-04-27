@@ -1,0 +1,11 @@
+tn\esprit\tp5\entities\Projet.class
+tn\esprit\tp5\repositories\ProjetRepository.class
+tn\esprit\tp5\entities\Equipe.class
+tn\esprit\tp5\entities\ProjetDetail.class
+tn\esprit\tp5\repositories\EquipeRepository.class
+tn\esprit\tp5\repositories\ProjetDetailRepository.class
+tn\esprit\tp5\Tp5Application.class
+tn\esprit\tp5\services\IProjetService.class
+tn\esprit\tp5\entities\Domaine.class
+tn\esprit\tp5\controllers\ProjetRestController.class
+tn\esprit\tp5\services\ProjetServiceImpl.class

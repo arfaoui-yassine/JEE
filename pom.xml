@@ -11,14 +11,14 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.example</groupId>
-    <artifactId>jee</artifactId>
+    <groupId>tn.esprit</groupId>
+    <artifactId>tp5</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>JEE</name>
-    <description>JEE Spring Boot Project</description>
+    <name>tp-jee-yassine-arfaoui</name>
+    <description>TP5 Spring Boot JEE Project</description>
 
     <properties>
-        <java.version>19</java.version>
+        <java.version>17</java.version>
     </properties>
 
     <dependencies>
